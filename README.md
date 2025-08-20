@@ -22,4 +22,3 @@ This script calculates PROTsi scores by applying a pre-trained OCLR model to nor
 1. Edit the `setwd()` line in the script to point to your local project directory.
 2. Place your files inside the `data/` folder as instructed.
 3. Open R or RStudio and run the script `scripts/calculate_PROTsi.R` line by line.
-4. Results will be saved to `results/PROTsi_scores.tsv`

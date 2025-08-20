@@ -20,3 +20,7 @@ This script calculates PROTsi scores by applying a pre-trained OCLR model to nor
 1. Edit the `setwd()` line in the script to point to your local project directory.
 2. Place your files inside the `data/` folder as instructed.
 3. Open R or RStudio and run the script `scripts/calculate_PROTsi.R` line by line.
+
+## Citation
+
+Kołodziejczak-Guglas I, Simões RLS, de Souza Santos E, et al. Proteomic-based stemness score measures oncogenic dedifferentiation and enables the identification of druggable targets. *Cell Genom.* 2025;5(6):100851. doi:[10.1016/j.xgen.2025.100851](https://doi.org/10.1016/j.xgen.2025.100851)

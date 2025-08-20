@@ -9,8 +9,6 @@ This script calculates PROTsi scores by applying a pre-trained OCLR model to nor
   - `expression_matrix.tsv`: normalized proteomic expression matrix (your own data)
 - `scripts/`
   - `calculate_PROTsi.R`: R script to run the model step-by-step
-- `results/`
-  - Output files will be written here
 
 ## Requirements
 
